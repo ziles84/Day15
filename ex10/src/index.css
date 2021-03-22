@@ -1,0 +1,112 @@
+body {
+text-align: center;
+}
+
+
+header {
+  overflow: hidden;
+  position: fixed;
+  padding-top: 15px;
+  top: 0;
+  width: 100%;
+}
+
+
+
+
+
+#nav_bar {
+
+padding-right: 30px;
+
+}
+
+
+
+#gmail {
+margin-right: 10px;
+}
+
+#images {
+margin-right: 10px;
+}
+
+#sign_in {
+  background-color: #346bbf;
+  color: white;
+margin-right: 10px;
+
+
+}
+
+ul {
+  list-style-type: none;
+   margin: 5px;
+   padding: 0;
+   overflow: hidden;
+   float: right;
+
+}
+
+li {
+
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #a6a6a6;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+}
+
+
+
+.nav-links {
+  text-decoration: none;
+}
+
+
+.google-image {
+  padding: 13% 0 2% 0;
+}
+
+#form input[type=text] {
+  height: 40px;
+    width: 500px;
+    border-radius: 25px;
+    overflow: hidden;
+}
+
+
+footer {
+  position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:  #f2f2f2;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+#footer-left {
+  float: left;
+  text-decoration: none;
+  color: #a6a6a6;
+
+}
+
+
+
+.footer-right {
+  float:right;
+  text-decoration: none;
+  padding-right: 50px;
+}
+
+.form-search {
+  padding: 10px;
+}
